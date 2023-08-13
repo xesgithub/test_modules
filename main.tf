@@ -3,8 +3,8 @@ module "base_infra" {
   rg_name = "rg-xes-test"
   tag = {
     creater_name = "Pakapong Reansakulyudee"
-    owner_name = "Siwanet Ponkhun"
-    owner_email = "siwanato@ais.co.th"
+    owner_name = "XXXX"
+    owner_email = "XXXX@gmail.com"
   }
   vnet_name = "vnet-test"
   
